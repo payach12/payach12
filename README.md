@@ -9,7 +9,7 @@ I love connecting with people, sharing ideas, and exploring new opportunities. F
 
 
 
-## 📫 How to reach me:
+## 📫 Reach out to me at:
 - Email: poojaayachwork@gmail.com | payach12@uw.edu
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pooja-ayachit/)
 
