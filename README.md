@@ -1,12 +1,17 @@
 # Welcome to my portfolio! :)
-### https://payach12.github.io/Pooja-Ayachit/
+
 
 ## 👨‍💻 About Me
-I'm Pooja, currently a grad student at the University of Washington, majoring in Data Science and Epidemiology. My work spans across various domains, including but not limited to healthcare, public health, social media analytics, and consumer behavior. My passion for data science stems from wanting to tell stories and bridging gaps; over the last couple of years, I've really come to enjoy the science and application of statistics and machine learning. The possibilities are truly endless and exciting! I am driven to pursue a career in data science where I can effectively translate complex data and business insights into understandable and engaging stories, and narrarives that are both impactful and easy to grasp for all.
+Hi, I’m Pooja! My journey into Data Science is driven by a fascination with the stories that shape our lives—the triumphs, struggles, and connections that define us. I believe that behind every dataset is a narrative waiting to be discovered, and I’m passionate about blending my analytical skills with a deep curiosity about human experiences.
+
+As a data scientist and mixed methods researcher at the University of Washington, I explore various fields like healthcare, social media, consumer behavior, and product development. I strive to make data come alive by integrating quantitative and qualitative insights, revealing the underlying stories that numbers alone can’t tell. My goal is to ensure that data is more than just statistics; it's a reflection of real-world experiences and a tool for meaningful change.
+
+If you’re interested in how data can illuminate human stories and drive impactful decisions, let’s connect!
+
 
 
 ## 📫 Reach out to me at:
-- Email: poojaayachwork@gmail.com | payach12@uw.edu
+- Email: poojaayachit98@gmail.com | payach12@uw.edu
 - LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/pooja-ayachit/)
 
 
