@@ -8,21 +8,32 @@ As a data scientist and mixed methods researcher at the University of Washington
 
 Skills:
 
--Building and deploying Machine Learning and Deep Learning models, including Random Forest, XGBoost, Neural Networks, Natural Language Processing, and Recommendation Systems.
--Creating scalable data pipelines and ETL processes.
--Experimentation, such as A/B testing, Power Analysis, and Causal Inference.
--Data Visualization and Business Intelligence using Tableau and Power BI.
--User Experience Research and Product Strategy.
--Project Management and Agile Methodologies.
--Product Roadmapping & Management.
+📌 Building and deploying Machine Learning and Deep Learning models, including Random Forest, XGBoost, Neural Networks, Natural Language Processing, and Recommendation Systems.
+
+📌 Creating scalable data pipelines and ETL processes.
+
+📌 Experimentation, such as A/B testing, Power Analysis, and Causal Inference.
+
+📌 Data Visualization and Business Intelligence using Tableau and Power BI.
+
+📌 User Experience Research and Product Strategy.
+
+📌 Project Management and Agile Methodologies.
+
+📌 Product Roadmapping & Management.
+
 
 Tools & Technologies:
 
--Languages: Python, R, SQL, JavaScript, HTML.
--Cloud Tools: AWS, Azure, Databricks.
--Data Visualization: Tableau, Power BI, R-Shiny, Observable.
--Software Engineering: HTML, C++, React.js, Node.js, Android tools, Docker.
--Other Tools: Git, Jira, Trello, Visual Studio.
+💻 Languages: Python, R, SQL, JavaScript, HTML.
+
+💻 Cloud Tools: AWS, Azure, Databricks.
+
+💻 Data Visualization: Tableau, Power BI, R-Shiny, Observable.
+
+💻 Software Engineering: HTML, C++, React.js, Node.js, Android tools, Docker.
+
+💻 Other Tools: Git, Jira, Trello, Visual Studio.
 
 
 
