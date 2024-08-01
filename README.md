@@ -2,7 +2,7 @@
 
 
 ## 👨‍💻 About Me
-Hi! My name is Pooja Ayachit, and I recently graduated from the University of Washington with a Master's in Data Science with a specialization in Mixed-Methods Research. Welcome to my page! 
+Hi! My name is Pooja Ayachit, and I recently graduated from the University of Washington with a Master's in Data Science, specializing in Mixed-Methods Research. Welcome to my page! 
 
 My journey into Data Science is driven by a fascination with the stories that shape our lives—the triumphs, struggles, and connections that define us. I believe that behind every dataset is a narrative waiting to be discovered, and I’m passionate about blending my analytical skills with a deep curiosity about human experiences.
 
