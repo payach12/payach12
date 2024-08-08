@@ -39,10 +39,6 @@ Tools & Technologies:
 
 
 
-
-
-If you’re interested in how data can illuminate human stories and drive impactful decisions, let’s connect! :)
-
 I'm currently on the look out for a full time gig as a Data Scientist/Analyst or Applied Scientist roles! 
 ## 📫 Reach out to me at:
 - Email: poojaayachit98@gmail.com | payach12@uw.edu
