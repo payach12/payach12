@@ -4,7 +4,8 @@
 ## 👨‍💻 About Me
 I'm Pooja, and I recently graduated from the University of Washington with a Master's in Data Science, specializing in Mixed-Methods Research. 
 
-As a data scientist and mixed-methods researcher, I explore various fields like product development, healthcare, social media, and consumer behavior. My goal is to ensure that data isn't just numbers, but a reflection of everyday real-world experiences. 
+As a data scientist and mixed-methods researcher, my goal is to ensure that data isn't just numbers, but a reflection of everyday real-world experiences. In my past roles and as a grad student at the University of Washington, I’ve honed my skills at the crossroads of Data Science and Product Development, where I merge traditional data science techniques with qualitative research to build comprehensive narratives and create user-centric products. I’ve collaborated with both technical and non-technical stakeholders, including major international organizations like WHO and UNICEF, to drive insights and develop business solutions with the user always in focus. My work spans various domains, including healthcare, consumer behavior, and social media analytics, and I enjoy taking on new challenges and figuring out how to apply my data science skills in different areas.
+
 
 Skills:
 
